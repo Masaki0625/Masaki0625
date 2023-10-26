@@ -1,9 +1,11 @@
 ### Hi there 👋
 
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masaki0625&layout=compact&count_private=true&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Masaki0625&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
-  <img alt="github-profile-summary-cards" height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Masaki0625&theme=github_dark" />
+  <img alt="Top Langs" width="100px" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masaki0625&layout=compact&count_private=true&show_icons=true&theme=onedark" />
+
+  <img alt="github stats" width="100px" height="150px" src="https://github-readme-stats.vercel.app/api?username=Masaki0625&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
+  
+  <img alt="github-profile-summary-cards" width="100px" height="80px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Masaki0625&theme=github_dark" />
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Masaki0625&theme=onedark&column=7
