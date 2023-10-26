@@ -8,6 +8,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Masaki0625&theme=onedark&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
 
+![github-Masaki0625](github-Masaki0625.svg)
+
 <!--
 **Masaki0625/Masaki0625** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
