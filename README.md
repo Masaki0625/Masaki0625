@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masaki0625&layout=compact&count_private=true&show_icons=true&theme=onedark" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Masaki0625&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Masaki0625&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Masaki0625&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Masaki0625&theme=onedark&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
